@@ -1,6 +1,6 @@
 # vue-project
 
-This template should help get you started developing with Vue 3 in Vite.
+This project shows one of the most common components made with vue 3 and tailwind.
 
 ## Recommended IDE Setup
 
